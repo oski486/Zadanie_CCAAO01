@@ -1,0 +1,3 @@
+[submodule "CCAAO01_sub"]
+	path = CCAAO01_sub
+	url = git@github.com:oski486/CCAAO01_sub.git
